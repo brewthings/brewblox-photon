@@ -1,0 +1,53 @@
+Partlist exported from C:/Users/daveo/Google Drive/Board/BrewThings-Spark/BrewThings-Spark-NoSD.sch at 11/16/2020 12:24 PM
+
+Part  Value                  Device                 Package                Description                                                 MF MPN              OC_FARNELL OC_NEWARK
+C1    10n                    C5/3                   C5B3                   CAPACITOR                                                                                           
+C2    100n                   C5/3                   C5B3                   CAPACITOR                                                                                           
+C3    100n                   C5/3                   C5B3                   CAPACITOR                                                                                           
+C4    100n                   C5/3                   C5B3                   CAPACITOR                                                                                           
+C5    100n                   C5/3                   C5B3                   CAPACITOR                                                                                           
+C6    100n                   C5/3                   C5B3                   CAPACITOR                                                                                           
+C7    100n                   C5/3                   C5B3                   CAPACITOR                                                                                           
+H1    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+H2    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+H3    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+H4    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+H5    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+H6    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+H7    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+H8    SPECIAL_DRILL_0.1250   SPECIAL_DRILL_0.1250   PAD_0.1250             Special drills                                                                                      
+IC1   74HCT125N              74HCT125N              DIL14                  Quad bus BUFFER, 3-state                                                                            
+IC2   DS2482-100D            DS2482-100D            DIL08                  I2C to 1-Wire Host Adapter/Line Driver                                                              
+IC3   MAX3468CPA             MAX3468CPA             DIL08                  +5V, Fail-Safe, 40Mbps, Profibus RS-485/RS-422 Transceivers                     unknown    unknown  
+JP1                          PINHD-1X14             1X14                   PIN HEADER                                                                                          
+LED1  red                    LED5MM                 LED5MM                 LED                                                                                                 
+LED2  red                    LED5MM                 LED5MM                 LED                                                                                                 
+LED3  red                    LED5MM                 LED5MM                 LED                                                                                                 
+LED4  red                    LED5MM                 LED5MM                 LED                                                                                                 
+PWR   MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN 1,5/ 2-5,08 Printklemme                                  MKDSN 1,5/2-5.08 1792903    30M2397  
+Q1    BSS123                 BSS123                 SOT23                  N-CHANNEL MOS FET                                                                                   
+Q2    BSS84                  BSS84                  SOT23                  P-CHANNEL MOS FET                                                                                   
+R1    10k                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R2    10k                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R3    10k                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R4    10k                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R5    1k0                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R6    1k0                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R7    1k0                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R8    1k0                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R9    39R                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R10   1k0                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R11   1k0                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R12   39R                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R13   120R                   R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+R14   10k                    R-US_0204/7            0204/7                 RESISTOR, American symbol                                                                           
+RS485 MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN 1,5/ 2-5,08 Printklemme                                  MKDSN 1,5/2-5.08 1792903    30M2397  
+SG1   F/QMX                  F/QMX                  F/QMX                  BUZZER Source: Buerklin                                                         unknown    unknown  
+U$1   SPARK_CORECORE         SPARK_CORECORE         SPARK_CORE                                                                                                                 
+U$2   DC-DC-STEP-DOWN-MP1584 DC-DC-STEP-DOWN-MP1584 DC-DC-STEP-DOWN-MP1584 DC/DC Step-Down Regulator based on MP1584 chip                                                      
+X0    MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN 1,5/ 2-5,08 Printklemme                                  MKDSN 1,5/2-5.08 1792903    30M2397  
+X1    MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN 1,5/ 2-5,08 Printklemme                                  MKDSN 1,5/2-5.08 1792903    30M2397  
+X2    MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN 1,5/ 2-5,08 Printklemme                                  MKDSN 1,5/2-5.08 1792903    30M2397  
+X3    MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN1,5/2-5,08        MKDSN 1,5/ 2-5,08 Printklemme                                  MKDSN 1,5/2-5.08 1792903    30M2397  
+X4    MKDSN1,5/3-5,08        MKDSN1,5/3-5,08        MKDSN1,5/3-5,08        MKDSN 1,5/ 3-5,08 Printklemme                                                                       
+X5    MKDSN1,5/4-5,08        MKDSN1,5/4-5,08        MKDSN1,5/4-5,08        MKDSN 1,5/ 4-5,08 Printklemme                                                                       
